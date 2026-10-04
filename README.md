@@ -2,7 +2,7 @@
 # Savannah Clinic Booking System
 
 **GitHub repository:**
-(https://github.com/Simsade/savannah.git)
+(https://github.com/leesitonik/Savannah-Clinic-Booking-System.git)
 
 **Fly.io Deployment:**
 * **Live API:** (https://savannah.fly.dev)  
